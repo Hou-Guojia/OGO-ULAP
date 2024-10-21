@@ -10,6 +10,7 @@
 3. Usages:<br>
 
 	(1) Put the images into the "/images" directory.<br>
+ 
 	(2) Please run “Demo.m” file to generate the result in "/images" directory.<br>
 	
 	For any questions, please contact hgjouc@126.com.
